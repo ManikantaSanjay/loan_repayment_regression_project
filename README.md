@@ -1,3 +1,2 @@
 # ml_mini_project2
-This project is part of My udemy course Data Science And Machine Learning Bootcamp.This project is one of the many to-do projects as an exercise.This project deals with the 
-lendingClub dataset
+This project is part of my udemy course Data Science And Machine Learning Bootcamp by Jose Portilla.This project is one of the many to-do projects as an exercise.This project deals with the lendingClub dataset with some additional features.It involves exploratory Data Analysis using numpy,pandas,seaborn and matplotlib;also it involves data cleaning and preprocessing;then it deals with building a neural network using Keras.Later,i have modified the notebook to include using tensorboard with jupyter notebook. TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs. TensorBoard currently supports five visualizations: scalars, images, audio, histograms, and graphs.
