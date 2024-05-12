@@ -1,6 +1,6 @@
-# Hello there, finance tech enthusiasts! 👋💰
+# Hello there, fintech enthusiasts! 👋💰
 
-Welcome to our **Loan Repayment Regression Project**. This project uses Sequential Neural Networks to predict loan repayment.
+Welcome to **Loan Repayment Regression Project**. This project uses Sequential Neural Networks to predict loan repayment.
 
 ## What's it all about? 🤔
 
